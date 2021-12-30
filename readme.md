@@ -58,6 +58,9 @@ Standing in the directory that Minerva lays in:
 ## Launch Additional scripts on Minerva startup
 Any additional scripts, programs and other expecutable files in `./IncludeOtherScripts` will be launched when Minerva opens.
 
+## Acknowledgements
+* Thanks to [iconfinder](https://www.iconfinder.com/search?q=hourglass&price=free) for the loading graphic
+* Thanks to Taric Porter for his amazing [GDI+ library](https://github.com/tariqporter/Gdip/blob/master/Gdip.ahk) for autohotkey
 
 ## TODO
 * Performance optimize
