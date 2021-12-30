@@ -258,7 +258,6 @@ DeleteGraphics:
 ; Case not known; try to open the file
 Handler_Default(PATH)
 {
-	MsgBox, 48,, "No Default action for this filetype, attempting to run it"
 	Handler_LaunchProgram(PATH)
 }
 
