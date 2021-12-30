@@ -12,7 +12,7 @@ The GUI menu will be autopopulated with text and folders from the folder that Mi
 
 ## Prerequisites
 * Be on a Windows Computer
-* [Autohotkey](https://www.autohotkey.com/) must be installed
+* [Autohotkey](https://www.autohotkey.com/) must be installed with atleast version 1.1.31.00
 
 ## Installation
 Download this *entire* repository and open Minerva.ahk with AutoHotkey.
