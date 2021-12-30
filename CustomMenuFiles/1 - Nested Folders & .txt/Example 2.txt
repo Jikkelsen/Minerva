@@ -1,0 +1,1 @@
+Pasting text from .txt files will produce the same result whatever a .txtfile can hold of data
